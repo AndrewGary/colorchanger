@@ -16,6 +16,10 @@ const StyledApp = styled.div`
     display: flex;
     justify-content: center;
     align-items: center; 
+
+    &:hover{
+      border: black 3px solid;
+    }
   }
 
 `
